@@ -17,5 +17,5 @@ Design a low level design and db schema for railway reservation system for suppo
 >>>>>
 
 
-Created databse railway and ceated tables user ,train,station
+Created databse railway and ceated tables user ,train,station and placed the png files with screenhots of those
 
